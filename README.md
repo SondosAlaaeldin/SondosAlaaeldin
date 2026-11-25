@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Sondos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /> <img src="https://media.tenor.com/7g6FoGvHI5QAAAAi/smile-emoji.gif" width="28" alt="Animated smiling face" />
+# Hi there, I'm Sondos<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" width="28" alt="Smiling face" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Undergraduate+%7C+AI+Enthusiast;Machine+Learning+%7C+Data+Science+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;Always+curious%2C+always+learning%2C+always+building)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sondos-alaaeldin-1838a133a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sondos.negmeldin@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SondosAlaaeldin)
 
 </div>
 
