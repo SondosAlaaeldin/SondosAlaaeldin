@@ -11,9 +11,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a third-year Artificial Intelligence undergraduate at **The British University in Egypt (BUE)**, ranked among the **top 5 students in my year**.
+I'm a third-year Artificial Intelligence undergraduate at **The British University in Egypt (BUE)**, ranked among the **top 5 students in my year**. I'm fascinated by the possibilities of AI and how technology can turn ideas into solutions to real-world problems. I enjoy exploring new concepts, experimenting with different technologies, and putting what I learn into practice through projects.
 
-I'm fascinated by AI and how it can solve real-world problems. My current interests include **Machine Learning, LLMs, RAG, Agentic AI, NLP, and Data Science**. I enjoy turning data into insights and ideas into practical projects.
+I'm currently exploring the ever-evolving areas and applications of AI, from Machine Learning and Data Science to LLMs, RAG, and Agentic AI.
 
 ## 🛠️ Tech Stack
 
